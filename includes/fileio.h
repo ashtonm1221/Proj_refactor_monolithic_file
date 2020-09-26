@@ -3,6 +3,7 @@
 #define FILEIO_H
 
 #include <vector>
+#include <string>
 #include "constants.h"
 //attempt to open file 'filename' and read in all data
 //returns SUCCESS if all goes well or COULD_NOT_OPEN_FILE
